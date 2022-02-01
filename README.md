@@ -20,4 +20,4 @@ ___Game_Life.exe --input input_file.bmp --output dir_name --max_iter N --dump_fr
 ___Выходные данные:___ 
 2. ___Входные аргументы:___ Game_Life.exe --input test_images\monochrome_image.bmp --output generations_test2 --max_iter 20 --dump_freq 2  
 ___Выходные данные:___ 
-![pictures](https://raw.githubusercontent.com/ITMO-IS-Programming/hw5-NadezhdaShilaeva/main/test_images/monochrome_image.bmp?token=GHSAT0AAAAAABRDH7Z26UZJSS6NU4K2PI3IYPZHXWA)
+![pictures](https://github.com/NadezhdaShilaeva/Game_Life/blob/main/test_images/monochrome_image.bmp?raw=true)
