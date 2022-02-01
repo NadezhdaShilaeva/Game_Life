@@ -20,8 +20,7 @@ ___Game_Life.exe --input input_file.bmp --output dir_name --max_iter N --dump_fr
 1. ___Входные аргументы:___ Game_Life.exe --input test_images\snow.bmp --output generations_test1 --max_iter 10  
 (Изначальное изображение: ![snow](https://github.com/NadezhdaShilaeva/Game_Life/blob/main/test_images/snow.bmp?raw=true))  
 ___Выходные данные:___  Программа создает 10 новых изображений в директории generations_test1:  
-'''
-![1](https://github.com/NadezhdaShilaeva/Game_Life/blob/main/generations_test1/generation_1.bmp?raw=true) 
+>![1](https://github.com/NadezhdaShilaeva/Game_Life/blob/main/generations_test1/generation_1.bmp?raw=true) 
 ![2](https://github.com/NadezhdaShilaeva/Game_Life/blob/main/generations_test1/generation_2.bmp?raw=true) 
 ![3](https://github.com/NadezhdaShilaeva/Game_Life/blob/main/generations_test1/generation_3.bmp?raw=true) 
 ![4](https://github.com/NadezhdaShilaeva/Game_Life/blob/main/generations_test1/generation_4.bmp?raw=true) 
@@ -31,12 +30,11 @@ ___Выходные данные:___  Программа создает 10 но�
 ![8](https://github.com/NadezhdaShilaeva/Game_Life/blob/main/generations_test1/generation_8.bmp?raw=true) 
 ![9](https://github.com/NadezhdaShilaeva/Game_Life/blob/main/generations_test1/generation_9.bmp?raw=true) 
 ![10](https://github.com/NadezhdaShilaeva/Game_Life/blob/main/generations_test1/generation_10.bmp?raw=true)
-'''  
+
 2. ___Входные аргументы:___ Game_Life.exe --input test_images\monochrome_image.bmp --output generations_test2 --max_iter 20 --dump_freq 2  
 (Изначальное изображение: ![picture](https://github.com/NadezhdaShilaeva/Game_Life/blob/main/test_images/monochrome_image.bmp?raw=true))  
 ___Выходные данные:___  Программа создает 10 новых изображений в директории generations_test2:  
-'''
-![1](https://github.com/NadezhdaShilaeva/Game_Life/blob/main/generations_test2/generation_2.bmp?raw=true) 
+>![1](https://github.com/NadezhdaShilaeva/Game_Life/blob/main/generations_test2/generation_2.bmp?raw=true) 
 ![2](https://github.com/NadezhdaShilaeva/Game_Life/blob/main/generations_test2/generation_4.bmp?raw=true) 
 ![3](https://github.com/NadezhdaShilaeva/Game_Life/blob/main/generations_test2/generation_6.bmp?raw=true) 
 ![4](https://github.com/NadezhdaShilaeva/Game_Life/blob/main/generations_test2/generation_8.bmp?raw=true) 
@@ -46,4 +44,3 @@ ___Выходные данные:___  Программа создает 10 но�
 ![8](https://github.com/NadezhdaShilaeva/Game_Life/blob/main/generations_test2/generation_16.bmp?raw=true) 
 ![9](https://github.com/NadezhdaShilaeva/Game_Life/blob/main/generations_test2/generation_18.bmp?raw=true) 
 ![10](https://github.com/NadezhdaShilaeva/Game_Life/blob/main/generations_test2/generation_20.bmp?raw=true)
-'''
